@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-25T17:57:12+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-09-26T13:02:14+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -148,82 +148,82 @@
         PARTICIPANT="@ems1978f" TIER_ID="transl@ems1978f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a2">
-                <ANNOTATION_VALUE>but nevertheless let's give credit to it / eh somehow eh somehow it came back to the line //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>But nevertheless let's give credit to it, eh somehow eh somehow it came back to the line.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>but //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>But.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a4">
-                <ANNOTATION_VALUE>what is happening now / is unprecedented and unseen //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>What is happening now is unprecedented and unseen.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>it / that is called / did not signed up for this / and it is not designed for this //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>It that is called did not signed up for this and it is not designed for this.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a22" ANNOTATION_REF="a6">
-                <ANNOTATION_VALUE>we can imagine that it like a  / transformer / will sudddenly get reformatted / and from eh a car will turn into this fighting robot //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>We can imagine that it like a transformer will sudddenly get reformatted and from eh a car will turn into this fighting robot.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a23" ANNOTATION_REF="a7">
-                <ANNOTATION_VALUE>but //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>But.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a24" ANNOTATION_REF="a8">
-                <ANNOTATION_VALUE>let's say //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Let's say.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>all of the social mechanisms / including the state mechanism / work with the help of people //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Eh all of the social mechanisms, including the state mechanism, work with the help of people.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a26" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>yet again //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Yet again.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a27" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>many people have many claims / to other people //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Many people have many claims to other people.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a28" ANNOTATION_REF="a12">
-                <ANNOTATION_VALUE>about like / morality / eh resielence / eh civil courage / and so on //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>About like morality, eh resielence, eh civil courage, and so on.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a13">
-                <ANNOTATION_VALUE>but / yet again it seems to me / that after more than / twenty years / in general we know each other quite well //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>But yet again it seems to me that after more than twenty years in general we know each other quite well.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a14">
-                <ANNOTATION_VALUE>what one is capable of / and what one is not / capable of //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>What one is capable of, and what one is not / capable of.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a31" ANNOTATION_REF="a15">
-                <ANNOTATION_VALUE>uh / it is not / an attempt to predict any sort of development //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Uh it is not an attempt to predict any sort of development.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a32" ANNOTATION_REF="a16">
-                <ANNOTATION_VALUE>but / yet again as a political scientist / i am still / i am still a political scientist //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>But yet again as a political scientist I am still, I am still a political scientist.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>i need to mention one / certain / strangeness //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>I need to mention one certain strangeness.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
