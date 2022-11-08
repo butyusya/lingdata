@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-11-06T18:35:00+03:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-11-08T19:39:03+03:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///C:/ELANprojects/livefurther/livefurther.mp4"
-            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./livefurther.mp4"/>
+            MEDIA_URL="file:///C:/ELANprojects/livefurther/livefurther-volyanskiy.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./livefurther-volyanskiy.mp4"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:200f5ef5-b157-4626-8d46-bc909a384d18</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">8656</PROPERTY>
     </HEADER>
@@ -1769,7 +1769,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
                 TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts70">
-                <ANNOTATION_VALUE>она / что называется / на такое не подписывалась / и к такому не приспособленна //</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>она / что называется / на такое не подписывалась / и к такому не приспособлена //</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2309,7 +2309,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a5">
-                <ANNOTATION_VALUE>It that is called did not signed up for this and it is not designed for this.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>It, as they say, did not signed up for this and it is not designed for this.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2329,7 +2329,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a25" ANNOTATION_REF="a9">
-                <ANNOTATION_VALUE>All of the social mechanisms, including the state mechanism, work with the help of people.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>All of the social mechanisms, including the state mechanism, are made of people.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2344,7 +2344,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1077" ANNOTATION_REF="a1076">
-                <ANNOTATION_VALUE>About like morality, resielence, civil courage, and so on.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>About like morality, resilience, civil courage, and so on.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2369,7 +2369,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a33" ANNOTATION_REF="a17">
-                <ANNOTATION_VALUE>I need to mention one certain strangeness.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>I need to mention one certain oddity.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2384,7 +2384,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a771" ANNOTATION_REF="a462">
-                <ANNOTATION_VALUE>But I want to mention the strangness right from my.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>But I want to mention the oddity right from my.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2519,7 +2519,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3162" ANNOTATION_REF="a1179">
-                <ANNOTATION_VALUE>Youth was tha basis of NSDAP</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Youth was the basis of NSDAP.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2579,7 +2579,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3174" ANNOTATION_REF="a1190">
-                <ANNOTATION_VALUE>There is some strangeness.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>There is some oddity.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2589,7 +2589,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3176" ANNOTATION_REF="a1194">
-                <ANNOTATION_VALUE>We will see. The one, who will watch untill the end, will know how exactly this strangeness manifests itself.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>We will see. The one, who will watch untill the end, will know how exactly this oddity manifests itself.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2609,7 +2609,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3180" ANNOTATION_REF="a1198">
-                <ANNOTATION_VALUE>One try to pretend that everything is more or less fine and to be on the side, on which it is safely to be.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>One tries to pretend that everything is more or less fine and to be on the side, on which it is safely to be.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2639,12 +2639,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3186" ANNOTATION_REF="a1204">
-                <ANNOTATION_VALUE>Especially if it seemed to them that they are guilty for not noticing the obvious and, so to speak, for turning the blind eye to the approaching.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Especially if it seemed to them that they are guilty for not noticing the obvious and, let's say, for turning the blind eye to the approaching.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3187" ANNOTATION_REF="a1205">
-                <ANNOTATION_VALUE>So they, as, so to say, response.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>So they, as, let's say, response.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2654,7 +2654,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3189" ANNOTATION_REF="a1207">
-                <ANNOTATION_VALUE>They now begin to believe in any end of the world, which is happening at any time.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>They now begin to believe in any end of the world, which occures at any time.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2664,17 +2664,17 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3191" ANNOTATION_REF="a1209">
-                <ANNOTATION_VALUE>These are the people which after hearing something on the street.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>These are the people which after hearing something on a street.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3192" ANNOTATION_REF="a1210">
-                <ANNOTATION_VALUE>Or after seeng something from some acquaintance.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>Or after seeing something from a acquaintance.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3193" ANNOTATION_REF="a1211">
-                <ANNOTATION_VALUE>They tell, whole nation has united, and it has not just simply united, it has united personally against me.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>They tell, the whole nation has united, and it has not just simply united, it has united personally against me.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2694,12 +2694,12 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3197" ANNOTATION_REF="a1215">
-                <ANNOTATION_VALUE>One in the whole universe, alone poor thing like recruit on the watch.</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>One in the whole universe, poor lonely thing like recruit on the watch.</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3198" ANNOTATION_REF="a1216">
-                <ANNOTATION_VALUE>And everyone around is bad, wrong person, that is why there is no other way except by...</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>And everyone around are bad, wrong people, that is why there is no other way except by...</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -2743,8 +2743,9 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="butyusya" LINGUISTIC_TYPE_REF="words"
-        PARENT_REF="text@ems1978f" PARTICIPANT="@ems1978f" TIER_ID="words@ems1978f">
+    <TIER ANNOTATOR="butyusya" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="words" PARENT_REF="text@ems1978f"
+        PARTICIPANT="@ems1978f" TIER_ID="words@ems1978f">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a474"
                 TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
@@ -2976,7 +2977,7 @@
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a515"
                 TIME_SLOT_REF1="ts68" TIME_SLOT_REF2="ts69">
-                <ANNOTATION_VALUE>приспособленна</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>приспособлена</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -8788,8 +8789,9 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="butyusya" LINGUISTIC_TYPE_REF="part of speech"
-        PARENT_REF="words@ems1978f" PARTICIPANT="@ems1978f" TIER_ID="pos@ems1978f">
+    <TIER ANNOTATOR="butyusya" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="part of speech" PARENT_REF="words@ems1978f"
+        PARTICIPANT="@ems1978f" TIER_ID="pos@ems1978f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a783" ANNOTATION_REF="a474" CVE_REF="cveid_ec21c04a-feae-48cf-8387-54bea216078c">
                 <ANNOTATION_VALUE>CONJ</ANNOTATION_VALUE>
@@ -13826,8 +13828,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="butyusya" LINGUISTIC_TYPE_REF="gesture"
-        PARTICIPANT="@ems1978f" TIER_ID="gesture@ems1978f">
+    <TIER ANNOTATOR="butyusya" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="gesture" PARTICIPANT="@ems1978f" TIER_ID="gesture@ems1978f">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3257"
                 TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
@@ -14489,7 +14491,8 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="butyusya" LINGUISTIC_TYPE_REF="gesture_meaning"
+    <TIER ANNOTATOR="butyusya" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="gesture_meaning"
         PARENT_REF="gesture@ems1978f" PARTICIPANT="@ems1978f" TIER_ID="gestMeaning@ems1978f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3260" ANNOTATION_REF="a3257">
@@ -14503,7 +14506,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a1115" ANNOTATION_REF="a1112">
-                <ANNOTATION_VALUE>общеуказательный</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>поиск слова</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15042,7 +15045,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="butyusya" LINGUISTIC_TYPE_REF="gesture_organs"
+    <TIER ANNOTATOR="butyusya" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="gesture_organs"
         PARENT_REF="gesture@ems1978f" PARTICIPANT="@ems1978f" TIER_ID="gestActiveOrgan@ems1978f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a3263" ANNOTATION_REF="a3257" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
@@ -15075,8 +15079,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1126" ANNOTATION_REF="a1124" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a1126" ANNOTATION_REF="a1124" CVE_REF="cveid_242c336d-835d-4ccb-aec2-ab0341e1a735">
+                <ANNOTATION_VALUE>face</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15095,13 +15099,13 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3282" ANNOTATION_REF="a3278" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a3282" ANNOTATION_REF="a3278" CVE_REF="cveid_242c336d-835d-4ccb-aec2-ab0341e1a735">
+                <ANNOTATION_VALUE>face</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3283" ANNOTATION_REF="a3279" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a3283" ANNOTATION_REF="a3279" CVE_REF="cveid_242c336d-835d-4ccb-aec2-ab0341e1a735">
+                <ANNOTATION_VALUE>face</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15125,13 +15129,13 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1128" ANNOTATION_REF="a1127" CVE_REF="cveid_6782b87d-5262-4eb3-a71c-7e0547a8f54f">
-                <ANNOTATION_VALUE>hand</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a1128" ANNOTATION_REF="a1127" CVE_REF="cveid_19e200ba-5fe5-4871-b9bb-b67138be975e">
+                <ANNOTATION_VALUE>hand, body</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a1130" ANNOTATION_REF="a1129" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a1130" ANNOTATION_REF="a1129" CVE_REF="cveid_242c336d-835d-4ccb-aec2-ab0341e1a735">
+                <ANNOTATION_VALUE>face</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15215,13 +15219,13 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3255" ANNOTATION_REF="a3251" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a3255" ANNOTATION_REF="a3251" CVE_REF="cveid_242c336d-835d-4ccb-aec2-ab0341e1a735">
+                <ANNOTATION_VALUE>face</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3256" ANNOTATION_REF="a3252" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a3256" ANNOTATION_REF="a3252" CVE_REF="cveid_242c336d-835d-4ccb-aec2-ab0341e1a735">
+                <ANNOTATION_VALUE>face</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15245,8 +15249,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3313" ANNOTATION_REF="a3311" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a3313" ANNOTATION_REF="a3311" CVE_REF="cveid_242c336d-835d-4ccb-aec2-ab0341e1a735">
+                <ANNOTATION_VALUE>face</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15375,8 +15379,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3391" ANNOTATION_REF="a3389" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a3391" ANNOTATION_REF="a3389" CVE_REF="cveid_242c336d-835d-4ccb-aec2-ab0341e1a735">
+                <ANNOTATION_VALUE>face</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -15415,8 +15419,8 @@
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a3415" ANNOTATION_REF="a3413" CVE_REF="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-                <ANNOTATION_VALUE>head</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a3415" ANNOTATION_REF="a3413" CVE_REF="cveid_242c336d-835d-4ccb-aec2-ab0341e1a735">
+                <ANNOTATION_VALUE>face</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -16852,8 +16856,9 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="butyusya" LINGUISTIC_TYPE_REF="lemma"
-        PARENT_REF="words@ems1978f" PARTICIPANT="@ems1978f" TIER_ID="lemma@ems1978f">
+    <TIER ANNOTATOR="butyusya" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="lemma" PARENT_REF="words@ems1978f"
+        PARTICIPANT="@ems1978f" TIER_ID="lemma@ems1978f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a5537" ANNOTATION_REF="a474">
                 <ANNOTATION_VALUE>но</ANNOTATION_VALUE>
@@ -21890,8 +21895,9 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="butyusya" LINGUISTIC_TYPE_REF="features"
-        PARENT_REF="words@ems1978f" PARTICIPANT="@ems1978f" TIER_ID="gr@ems1978f">
+    <TIER ANNOTATOR="butyusya" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="features" PARENT_REF="words@ems1978f"
+        PARTICIPANT="@ems1978f" TIER_ID="gr@ems1978f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a7551" ANNOTATION_REF="a474">
                 <ANNOTATION_VALUE/>
@@ -26928,8 +26934,9 @@
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="butyusya" LINGUISTIC_TYPE_REF="intonation"
-        PARENT_REF="text@ems1978f" PARTICIPANT="@ems1978f" TIER_ID="intonation@ems1978f">
+    <TIER ANNOTATOR="butyusya" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="intonation" PARENT_REF="text@ems1978f"
+        PARTICIPANT="@ems1978f" TIER_ID="intonation@ems1978f">
         <ANNOTATION>
             <REF_ANNOTATION ANNOTATION_ID="a8567" ANNOTATION_REF="a2" CVE_REF="cveid_bb901275-a0d7-4aa4-ae00-b95e98065319">
                 <ANNOTATION_VALUE>нарратив</ANNOTATION_VALUE>
@@ -27448,7 +27455,10 @@
                 DESCRIPTION="hand or parts of hand excluding fingers" LANG_REF="und">hand</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_0b9155f6-f9b0-4a7b-acf3-be5c1365cdaa">
-            <CVE_VALUE DESCRIPTION="face, nose, ear, temple and others" LANG_REF="und">head</CVE_VALUE>
+            <CVE_VALUE LANG_REF="und">head</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_242c336d-835d-4ccb-aec2-ab0341e1a735">
+            <CVE_VALUE DESCRIPTION="face, nose" LANG_REF="und">face</CVE_VALUE>
         </CV_ENTRY_ML>
         <CV_ENTRY_ML CVE_ID="cveid_a830eef2-fdbd-4e6d-9eb6-31813835d647">
             <CVE_VALUE
